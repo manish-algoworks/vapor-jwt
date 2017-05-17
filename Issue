@@ -1,0 +1,5 @@
+Got this issue while installing through carthage
+*** Skipped building vapor-jwt due to the error:
+Dependency "vapor-jwt" has no shared framework schemes for any of the platforms: iOS
+
+If you believe this to be an error, please file an issue with the maintainers at Optional("https://github.com/alexaubry/vapor-jwt/issues/new")
